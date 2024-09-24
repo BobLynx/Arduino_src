@@ -1,5 +1,5 @@
 #define PIN_LED 7
-unsigned int toggle=1;
+unsigned int toggle=0;
 
 void setup() {
   // put your setup code here, to run once:
